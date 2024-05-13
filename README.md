@@ -31,7 +31,7 @@ In this project, historical Microsoft stock prices were used to build an ARIMA m
     pip install jupyterlab pandas numpy statsmodels matplotlib pmdarima scikit-learn
     ```
 
-2. Open the JupyterLab notebook (`time_series_prediction.ipynb`) to see the code and the prediction process step by step.
+2. Open the JupyterLab notebook (`time series.ipynb`) to see the code and the prediction process step by step.
 
 3. Follow the instructions within the notebook to execute the code cells and replicate the analysis.
 
